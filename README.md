@@ -24,5 +24,7 @@ This repository contains a Bash script that automates the installation of Kubern
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kubernetes-installation-script.git
-cd kubernetes-installation-script
+git clone https://github.com/mehdimahdian/k8s-install.git
+cd k8s-install
+chmod +x k8sinstaller.sh
+sudo bash k8sinstaller.sh
