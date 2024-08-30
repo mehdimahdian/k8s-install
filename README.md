@@ -21,7 +21,7 @@ This repository contains a Bash script that automates the installation of Kubern
 
 ## Usage
 
-### Clone the Repository
+### Clone the Repository & Run
 
 ```bash
 git clone https://github.com/mehdimahdian/k8s-install.git
